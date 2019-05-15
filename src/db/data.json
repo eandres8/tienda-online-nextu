@@ -1,0 +1,142 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "usuario": "elb.andres8@gmail.com",
+            "contrasena": "Prueba123"
+        },
+        {
+            "id": 1,
+            "usuario": "prueba@nextu.com",
+            "contrasena": "Next123"
+        }
+    ],
+    "productos": [
+        {
+            "img":"aguacate.jpg",
+            "name":"aguacate",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"ajo.jpg",
+            "name":"ajo",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"almendras.jpg",
+            "name":"almendras",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"arandanos.jpg",
+            "name":"arandanos",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"brocoli.png",
+            "name":"brocoli",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"calabaza.jpg",
+            "name":"calabaza",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"canela.jpg",
+            "name":"canela",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"cebolla.jpg",
+            "name":"cebolla",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"fresa.jpg",
+            "name":"fresa",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"kiwi.jpg",
+            "name":"kiwi",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"limon.jpg",
+            "name":"limon",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"lychee.jpg",
+            "name":"lychee",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"maiz.jpg",
+            "name":"maiz",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"manzana.jpg",
+            "name":"manzana",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"naranja.jpg",
+            "name":"naranja",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"papa.jpg",
+            "name":"papa",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"pasta.jpg",
+            "name":"pasta",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"pimienta.jpg",
+            "name":"pimienta",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"repollo.jpg",
+            "name":"repollo",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"tomate.jpg",
+            "name":"tomate",
+            "units": 0,
+            "price": 0
+        },
+        {
+            "img":"zanahoria.jpg",
+            "name":"zanahoria",
+            "units": 0,
+            "price": 0
+        }
+    ]
+}
