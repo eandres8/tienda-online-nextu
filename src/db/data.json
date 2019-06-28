@@ -13,130 +13,151 @@
     ],
     "productos": [
         {
+            "id": 1,
             "img":"aguacate.jpg",
             "name":"aguacate",
-            "units": 0,
-            "price": 0
+            "units": 100,
+            "price": 2000
         },
         {
+            "id": 2,
             "img":"ajo.jpg",
             "name":"ajo",
-            "units": 0,
-            "price": 0
+            "units": 150,
+            "price": 500
         },
         {
+            "id": 3,
             "img":"almendras.jpg",
             "name":"almendras",
-            "units": 0,
-            "price": 0
+            "units": 700,
+            "price": 700
         },
         {
+            "id": 4,
             "img":"arandanos.jpg",
             "name":"arandanos",
-            "units": 0,
-            "price": 0
+            "units": 2100,
+            "price": 400
         },
         {
+            "id": 5,
             "img":"brocoli.png",
             "name":"brocoli",
-            "units": 0,
-            "price": 0
+            "units": 30,
+            "price": 900
         },
         {
+            "id": 6,
             "img":"calabaza.jpg",
             "name":"calabaza",
-            "units": 0,
-            "price": 0
+            "units": 40,
+            "price": 1200
         },
         {
+            "id": 7,
             "img":"canela.jpg",
             "name":"canela",
-            "units": 0,
-            "price": 0
+            "units": 200,
+            "price": 200
         },
         {
+            "id": 8,
             "img":"cebolla.jpg",
             "name":"cebolla",
-            "units": 0,
-            "price": 0
+            "units": 500,
+            "price": 400
         },
         {
+            "id": 9,
             "img":"fresa.jpg",
             "name":"fresa",
-            "units": 0,
-            "price": 0
+            "units": 2000,
+            "price": 1000
         },
         {
+            "id": 10,
             "img":"kiwi.jpg",
             "name":"kiwi",
-            "units": 0,
-            "price": 0
+            "units": 10,
+            "price": 450
         },
         {
+            "id": 11,
             "img":"limon.jpg",
             "name":"limon",
-            "units": 0,
-            "price": 0
+            "units": 300,
+            "price": 250
         },
         {
+            "id": 12,
             "img":"lychee.jpg",
             "name":"lychee",
-            "units": 0,
-            "price": 0
+            "units": 300,
+            "price": 800
         },
         {
+            "id": 13,
             "img":"maiz.jpg",
             "name":"maiz",
-            "units": 0,
-            "price": 0
+            "units": 100,
+            "price": 1700
         },
         {
+            "id": 14,
             "img":"manzana.jpg",
             "name":"manzana",
-            "units": 0,
-            "price": 0
+            "units": 300,
+            "price": 600
         },
         {
+            "id": 15,
             "img":"naranja.jpg",
             "name":"naranja",
-            "units": 0,
-            "price": 0
+            "units": 90,
+            "price": 850
         },
         {
+            "id": 16,
             "img":"papa.jpg",
             "name":"papa",
-            "units": 0,
-            "price": 0
+            "units": 700,
+            "price": 450
         },
         {
+            "id": 17,
             "img":"pasta.jpg",
             "name":"pasta",
-            "units": 0,
-            "price": 0
+            "units": 100,
+            "price": 600
         },
         {
+            "id": 18,
             "img":"pimienta.jpg",
             "name":"pimienta",
-            "units": 0,
-            "price": 0
+            "units": 50,
+            "price": 50
         },
         {
+            "id": 19,
             "img":"repollo.jpg",
             "name":"repollo",
-            "units": 0,
-            "price": 0
+            "units": 700,
+            "price": 250
         },
         {
+            "id": 20,
             "img":"tomate.jpg",
             "name":"tomate",
-            "units": 0,
-            "price": 0
+            "units": 900,
+            "price": 800
         },
         {
+            "id": 21,
             "img":"zanahoria.jpg",
             "name":"zanahoria",
-            "units": 0,
-            "price": 0
+            "units": 600,
+            "price": 600
         }
     ]
 }
