@@ -3,10 +3,16 @@ let router = express.Router();
 const path = require('path');
 
 router.get('/angular', (req, res) => {
+    res.sendFile('index.html', { root: __dirname + '/../public/shoponline' } );
+});
 
-    // res.sendFile( __dirname + '/../public/img/aguacate.jpg');
-    res.sendFile(path.resolve('src/public/shoponline/index.html'));
 
+router.get('/react', (req, res) => {
+    res.sendFile('index.html', { root: __dirname + '/../public/nextu-shop-react' });
+});
+
+router.get('/', ( req, res ) => {
+    res.send('<h1>Pagina de inicio</h1>');
 });
 
 module.exports = router;

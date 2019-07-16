@@ -2,10 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const app = express();
-
-const login = require('./routes/login');
-const productos = require('./routes/productos');
-const versiones = require('./routes/versiones');
+const cacheControl = require('express-cache-controller');
 
 app.use(cors());
 // Se sirven archivos estaticos en la carpeta public
@@ -17,9 +14,11 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // opcional { type: 'application/*+json' }
 app.use(bodyParser.json());
 
-app.use(login);
-app.use(productos);
-app.use(versiones);
+app.use(cacheControl({
+    maxAge: 5
+}));
+
+app.use(require('./routes'));
 
 app.listen(3000, () => {
     console.log(`servidor corriendo en http://localhost:3000`);
